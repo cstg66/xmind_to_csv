@@ -1,0 +1,5 @@
+loguru
+xmindparser
+pandas
+openpyxl
+xlsxwriter
