@@ -1,5 +1,3 @@
-loguru
 xmindparser
 pandas
-openpyxl
-xlsxwriter
+loguru
